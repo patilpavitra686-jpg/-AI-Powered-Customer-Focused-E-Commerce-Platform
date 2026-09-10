@@ -1,0 +1,8 @@
+{
+  "name": "AmazeCart",
+  "description": "A modern Amazon/Flipkart-style e-commerce web app named AmazeCart that showcases next-gen AI and AR integration. It features a smart shopping assistant, AR product previews, and live price tracking charts, all wrapped in a sleek glassmorphism UI.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
